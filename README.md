@@ -1,7 +1,5 @@
 # Namaste React 
 
-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
-
 # Parcel - parceljs.org
 - Dev Build
 - Local Server
